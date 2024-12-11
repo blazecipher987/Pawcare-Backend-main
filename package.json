@@ -1,0 +1,37 @@
+{
+  "name": "trial408",
+  "version": "1.0.0",
+  "description": "Raj bday treat diyeche hehe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LSK987/trial408.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LSK987/trial408/issues"
+  },
+  "homepage": "https://github.com/LSK987/trial408#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.0",
+    "axios": "^1.6.7",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.11.3",
+    "postgres": "^3.4.3",
+    "request": "^2.88.2",
+    "sslcommerz-lts": "^1.1.0",
+    "supertest": "^6.3.4"
+  }
+}
